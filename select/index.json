@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "群青の夢と奇跡",
+  "base_artist": "PPP",
+  "createdAt": "2026-02-20T08:12:36.323869Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "群青の夢と奇跡",
+      "artist": "PPP (佐々木未来, 根本流風, 田村響華, 相羽あいな, 築田行子)",
+      "has_synced": false,
+      "path": "select/pl_01_群青の夢と奇跡_PPP_(佐々木未来,_根本流風,_田村響華,_相羽あいな,_築田行子).txt"
+    }
+  ]
+}
